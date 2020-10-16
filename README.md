@@ -1,7 +1,7 @@
 # ennuie
 Pleins de petits programmes que je développe quand je m'ennuie.
 
-#Comment lancer les programmes ?
+## Comment lancer les programmes ?
 
 1. Installer Python sur votre machine
 
