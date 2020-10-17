@@ -9,4 +9,4 @@ Pleins de petits programmes que je développe quand je m'ennuie.
 
 3. Mettez "CMD" dans votre chemin de navigations.
 
-4. Puis `python {nom du fichier à lancer`
+4. Puis `python {nom du fichier à lancer}`
